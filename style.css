@@ -1,0 +1,81 @@
+/*
+Template Name: 
+Version: 1.0.0
+Author: CoderForest
+Author URI: http://themeforest.net/user/coderforest
+Description: MyPort is a Responsive CV / Resume / V-Card / Personal Website / Portfolio Template made with latest technologies HTML5, CSS3, Bootstrap4, Font-Awesome-5, jQuery and Ajax. Introduce yourself like a professional with this unique beautiful design. Provide every important information with awesome design components to your clients or employers. 
+            It is highly customizable because of it's code quality & of course clean, modern and creative. It is smartly responsive that makes it look flexible & crisp on any mobile or tab device.
+*/
+/* ====================================================================
+[TABLE OF CONTENTS]
+-------------------
+01. Global CSS
+02. 
+*/
+/**
+* ===================================
+* = 01. Global CSS
+* ===================================
+*/
+::selection {
+  background: #f7f7f7;
+  color: #00b22d;
+  text-shadow: none;
+}
+
+::-moz-selection {
+  background: #f7f7f7;
+  /* Firefox */
+  color: #00b22d;
+  text-shadow: none;
+}
+
+::-webkit-selection {
+  background: #f7f7f7;
+  /* Safari */
+  color: #00b22d;
+  text-shadow: none;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #777;
+    font-size: 14px;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+input:focus, textarea:focus, button:focus, a:focus {
+    outline: none;
+}
+
+button[type=submit], input[type=submit] {
+    cursor: pointer;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+	margin: 0 0 10px;
+}
+
+img {
+    max-width: 100%;
+}
+
+input, textarea {
+    padding: 10px 15px;
+    margin-bottom: 1em;
+}
