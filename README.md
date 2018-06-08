@@ -3,14 +3,11 @@
 ```
 html5-modern-boilerplate/
 ├── css/
+│   ├── animate.css
 │   ├── bootstrap.min.css
 │   ├── font-awesome.min.css
 │   ├── owl.carousel.css
-├── js/
-│   └── bootstrap.min.js
-│   └── jquery-1.12.4.min.js
-│   └── owl.carousel.min.js
-│   └── scripts.js
+│   ├── responsive.css
 └── fonts/
 │   ├── fontawesome-webfont.eot
 │   ├── fontawesome-webfont.svg
@@ -18,6 +15,13 @@ html5-modern-boilerplate/
 │   ├── fontawesome-webfont.woff
 │   └── fontawesome-webfont.woff2
 │   └── FontAwesome.otf
+└── img/
+├── js/
+│   └── bootstrap.min.js
+│   └── jquery-1.12.4.min.js
+│   └── owl.carousel.min.js
+│   └── wow-v1.3.0.min.js
+│   └── scripts.js
 ├─── index.html
 ├─── style.css
 ├─── LICENSE
