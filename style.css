@@ -1,10 +1,7 @@
 /*
-Template Name: 
 Version: 1.0.1
 Author: Mehedi Hasan
 Author URI: http://promehedi.com/
-Description: MyPort is a Responsive CV / Resume / V-Card / Personal Website / Portfolio Template made with latest technologies HTML5, CSS3, Bootstrap4, Font-Awesome-5, jQuery and Ajax. Introduce yourself like a professional with this unique beautiful design. Provide every important information with awesome design components to your clients or employers. 
-            It is highly customizable because of it's code quality & of course clean, modern and creative. It is smartly responsive that makes it look flexible & crisp on any mobile or tab device.
 */
 /* ====================================================================
 [TABLE OF CONTENTS]
@@ -78,4 +75,49 @@ img {
 input, textarea {
     padding: 10px 15px;
     margin-bottom: 1em;
+}
+
+.bg {
+    background-color: #ddd;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+}
+
+.overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.6;
+}
+
+.section-padding {
+    padding: 80px 0;
+}
+
+.content-table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.content-table .content-table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.button {
+    display: inline-block;
+    color: #363b4d;
+    font-size: 26px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    padding: 10px 30px;
+    transition: all 0.3s;
+    border: 2px solid #363b4d;
 }

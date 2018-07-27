@@ -1,6 +1,9 @@
 (function ($) {
     "use strict";
     jQuery(document).ready(function() {
-        // Script Start
+
+        // Activate SlickNav
+        // $('#menu').slicknav();
+
     });
 })(jQuery);
