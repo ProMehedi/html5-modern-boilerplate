@@ -10,6 +10,7 @@ html5-modern-boilerplate/
 │ ├── font-awesome.min.css
 │ ├── owl.carousel.css
 │ ├── responsive.css
+│ ├── slicknav.min.css
 └── fonts/
 │ ├── fontawesome-webfont.eot
 │ ├── fontawesome-webfont.svg
@@ -21,6 +22,7 @@ html5-modern-boilerplate/
 ├── js/
 │ └── bootstrap.min.js
 │ └── jquery-1.12.4.min.js
+│ └── jquery.slicknav.min.js
 │ └── owl.carousel.min.js
 │ └── wow-v1.3.0.min.js
 │ └── scripts.js
