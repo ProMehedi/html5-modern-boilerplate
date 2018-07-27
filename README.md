@@ -33,6 +33,7 @@ html5-modern-boilerplate/
 
 ## Source
 
+ - **jQuery - v1.12.4**
  - **Bootstrap - v4.1.0**
  - **Font-Awesome - v4.7.0**
  - **Owl-Carousel - v2.0.2 (Custom Modified)**
